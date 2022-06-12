@@ -5210,7 +5210,7 @@ BoxCollider:
   m_GameObject: {fileID: 81212951}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -12166,7 +12166,7 @@ BoxCollider:
   m_GameObject: {fileID: 395774976}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -14131,7 +14131,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900156388}
-  m_LocalRotation: {x: -0.020174462, y: 0.8877398, z: -0.3648302, w: -0.2800178}
+  m_LocalRotation: {x: -0.020174474, y: 0.8877399, z: -0.36483017, w: -0.28001776}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -21434,7 +21434,7 @@ BoxCollider:
   m_GameObject: {fileID: 1053553780}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -22410,7 +22410,7 @@ BoxCollider:
   m_GameObject: {fileID: 1186280536}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -33079,7 +33079,7 @@ BoxCollider:
   m_GameObject: {fileID: 1414291449}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -33349,7 +33349,7 @@ BoxCollider:
   m_GameObject: {fileID: 1448644812}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 10, y: 1, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
@@ -39605,7 +39605,7 @@ PrefabInstance:
     - target: {fileID: 3099756089343826349, guid: 3ec7ba7cdb6f6de45a4395af69b741ea, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 626b2cfe8d918cb448fb4d06449417ac, type: 2}
+      objectReference: {fileID: 2100000, guid: 3b4330ffbe5899c439cc20e8ec43b837, type: 2}
     - target: {fileID: 5866666021909216657, guid: 3ec7ba7cdb6f6de45a4395af69b741ea, type: 3}
       propertyPath: m_CullingMode
       value: 0
