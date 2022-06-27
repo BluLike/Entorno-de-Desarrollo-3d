@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PaintingMat
+  m_Name: RimMat
   m_Shader: {fileID: 4800000, guid: 1740fb9ecb1bf2147904c8aa03a3a904, type: 3}
   m_ShaderKeywords: _NORMALMAP
   m_LightmapFlags: 4
